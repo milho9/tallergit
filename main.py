@@ -1,3 +1,3 @@
-print("hola")
+
 name=input()
-print(name)
+print("hola",name)
